@@ -260,7 +260,7 @@ FR name : combined new england city and town area (or part)
 ```
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
-340           | combined new england city and town area                                           | combined new england city and town area (or part)
+345           | combined new england city and town area                                           | combined new england city and town area (or part)
 ```
 For Summary Level : 346, api name is different!
 Prod name : new england city and town area
@@ -272,7 +272,7 @@ FR name : new england city and town area (or part)
 ```
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
-360           | new england city and town area                                                    | new england city and town area (or part)
+346, 360      | new england city and town area                                                    | new england city and town area (or part)
 ```
 For Summary Level : 364, api name is different!
 Prod name : necta division
@@ -490,7 +490,7 @@ FR 'requires' : ["state","american indian area/alaska native area/hawaiian home 
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
 ...           | "state"                                                                           | "state"
-286           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+288           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
 288           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
 
 ```
@@ -501,7 +501,7 @@ FR name : american indian area (off-reservation trust land only)/hawaiian home l
 
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
-286           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+552           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
 
 
 ```
