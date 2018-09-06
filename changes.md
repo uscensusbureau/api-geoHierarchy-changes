@@ -22,6 +22,7 @@ It may cause some confusion that (for example) `block group` seems to be changin
 
 You can find a complete list of all [Summary Levels at the bottom](#summary-level-index) of this document.
 
+# Geography (`for` predicate) Changes
 
 ## County Access
 
@@ -100,125 +101,6 @@ Summary Levels| Old Access Hierarchy and/or Name                                
 541, 615, 625 | consolidated city                                                                 | consolidated city (or part)
 
 
-## American Indian Access
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-144, 154      | american indian area/alaska native area/hawaiian home land                        | american indian area/alaska native area/hawaiian home land (or part)
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "american indian area/alaska native area (reservation or statistical entity only)"| "american indian area/alaska native area/hawaiian home land (or part)"
-265           | "county"                                                                          | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
-265           |                                                                                   | "county (or part)"
-  
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "american indian area/alaska native area (reservation or statistical entity only)"| "american indian area/alaska native area/hawaiian home land (or part)"
-266           | "county subdivision"                                                              | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
-266           |                                                                                   | "county subdivision (or part)"
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
-267           | "county"                                                                          | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-267           |                                                                                   | "county (or part)"
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
-...           | "county"                                                                          | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-268           | "county subdivision"                                                              | "county (or part)"
-268           |                                                                                   | "county subdivision (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-280, 616, 626 | american indian area/alaska native area/hawaiian home land                        | american indian area/alaska native area/hawaiian home land (or part)
-283, 551, 646, 647 | american indian area/alaska native area(reservation or statistical entity only)   | american indian area/alaska native area (reservation or statistical entity only) (or part)
-286, 648, 649 | american indian area (off-reservation trust land only)/hawaiian home land         | american indian area (off-reservation trust land only)/hawaiian home land (or part)
-552           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-283           | "state"                                                                           | "state"
-283           |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-284           | "american indian area (reservation or statistical entity only)"                   | "american indian area/alaska native area/hawaiian home land (or part)"
-284           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-285           | "american indian area (reservation or statistical entity only)"                   | "american indian area/alaska native area/hawaiian home land (or part)"
-285           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-286           | "state"                                                                           | "state"
-286           |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-287           | "american indian area (off-reservation trust land only)"                          | "american indian area/alaska native area/hawaiian home land (or part)"
-287           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-288           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
-288           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-551, 552      | "congressional district"                                                          | "congressional district"
-551, 552      |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "congressional district"                                                          | "congressional district"
-554           | "american indian area (reservation or statistical entity only)"                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-554           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-...           | "congressional district"                                                          | "congressional district"
-555           | "american indian area (off-reservation trust land only)"                          | "american indian area/alaska native area/hawaiian home land (or part)"
-555           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
-
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-646, 648      | "state legislative district (upper chamber)"                                      | "state legislative district (upper chamber)"
-646, 648      |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
-
-Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
-------------- | --------------------------------------------------------------------------------- | -----------------------------
-...           | "state"                                                                           | "state"
-647, 649      | "state legislative district (lower chamber)"                                      | "state legislative district (lower chamber)"
-647, 649      |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
-
-
 ## Alaska Native Regional Corporation Access
 
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
@@ -232,6 +114,130 @@ Summary Levels| Old Access Hierarchy and/or Name                                
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
 281, 284, 287, 553, 554, 555 | tribal subdivision/remainder                                       | tribal subdivision/remainder (or part)
 
+
+## American Indian Access
+
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+144, 154      | american indian area/alaska native area/hawaiian home land                        | american indian area/alaska native area/hawaiian home land (or part)
+280, 616, 626 | american indian area/alaska native area/hawaiian home land                        | american indian area/alaska native area/hawaiian home land (or part)
+283, 551, 646, 647 | american indian area/alaska native area(reservation or statistical entity only)   | american indian area/alaska native area (reservation or statistical entity only) (or part)
+286, 648, 649 | american indian area (off-reservation trust land only)/hawaiian home land         | american indian area (off-reservation trust land only)/hawaiian home land (or part)
+552           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+
+# Geographic Hierarchy (`in` & `for` predicate) Changes
+
+## New American Indian Access Hierarchies
+
+#### 265
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area/alaska native area (reservation or statistical entity only)"| "american indian area/alaska native area/hawaiian home land (or part)"
+...           | "county"                                                                          | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
+265           |                                                                                   | "county (or part)"
+  
+#### 266
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area/alaska native area (reservation or statistical entity only)"| "american indian area/alaska native area/hawaiian home land (or part)"
+...           | "county subdivision"                                                              | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
+266           |                                                                                   | "county subdivision (or part)"
+
+#### 267
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+...           | "county"                                                                          | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+267           |                                                                                   | "county (or part)"
+
+#### 268
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+...           | "county"                                                                          | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+...           | "county subdivision"                                                              | "county (or part)"
+268           |                                                                                   | "county subdivision (or part)"
+
+#### 283
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+283           |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
+
+#### 284
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (reservation or statistical entity only)"                   | "american indian area/alaska native area/hawaiian home land (or part)"
+284           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
+
+#### 285
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (reservation or statistical entity only)"                   | "american indian area/alaska native area/hawaiian home land (or part)"
+285           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
+
+#### 286
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+286           |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
+
+#### 287
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (off-reservation trust land only)"                          | "american indian area/alaska native area/hawaiian home land (or part)"
+287           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+
+#### 288
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "american indian area (off-reservation trust land only)/hawaiian home land"       | "american indian area/alaska native area/hawaiian home land (or part)"
+288           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+
+#### 551 & 552
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "congressional district"                                                          | "congressional district"
+551, 552      |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+
+#### 554
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "congressional district"                                                          | "congressional district"
+...           | "american indian area (reservation or statistical entity only)"                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+554           |                                                                                   | "american indian area/alaska native area (reservation or statistical entity only) (or part)"
+
+#### 555
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "congressional district"                                                          | "congressional district"
+...           | "american indian area (off-reservation trust land only)"                          | "american indian area/alaska native area/hawaiian home land (or part)"
+555           |                                                                                   | "american indian area (off-reservation trust land only)/hawaiian home land (or part)"
+
+#### 646 & 648
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "state legislative district (upper chamber)"                                      | "state legislative district (upper chamber)"
+646, 648      |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
+
+#### 647 & 649
+Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
+------------- | --------------------------------------------------------------------------------- | -----------------------------
+...           | "state"                                                                           | "state"
+...           | "state legislative district (lower chamber)"                                      | "state legislative district (lower chamber)"
+647, 649      |                                                                                   | "american indian area/alaska native area/hawaiian home land (or part)"
 
 
 
