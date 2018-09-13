@@ -14,9 +14,9 @@ If you have any questions/concerns about this process or the meanings of the con
 - Join us on [gitter.im](https://gitter.im/uscensusbureau/general)
 - Send an email to: cnmp.developers.list@census.gov
 
-# Change Matrix 
+# Change Matrices 
 
-We are providing the following change matrix to assist you in this transition.
+We are providing the following change matrices to assist you in this transition.
 
 ## Important Example of the Meaning of Summary Levels: 
 
