@@ -22,7 +22,7 @@ We are providing the following change matrix to assist you in this transition.
 
 It may cause some confusion that (for example) `block group` seems to be changing to `block group (or part)`, but do not worry. If your intention is to use `block group` as the geography of your analysis, that summary level (`150`) will not be changing. However, if your intention is to use a `block group` as a member of a `county subdivision` (summary level `091`), some of these block groups are - therein - incomplete, thus `(or part)` becomes a necessary qualifier of that summary level for use via API.
 
-You can find a complete list of all [Summary Levels at the bottom](#summary-level-index) of this document.
+You can find a complete list of all [changing Summary Levels at the bottom](#summary-level-index) of this document.
 
 # Geography (`for` predicate) Changes
 
