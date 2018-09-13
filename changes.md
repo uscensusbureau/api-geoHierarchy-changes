@@ -249,7 +249,7 @@ Summary Levels| Old Access Hierarchy and/or Name                                
 # Summary Level Index
 
 
- Summary Level | 2010 Decennial Geographic Hierarchy and/or Name                                                                  | Changing in 2017
+ Summary Level | 2010 Decennial Geographic Hierarchy and/or Name                                                                  | Changing in Data Year 2017
 :---:| -------------------------------------------------------------------------------------------------------------------------------------- | :---:
  010 | United States                                                                                                                          | 
  020 | Region                                                                                                                                 |
