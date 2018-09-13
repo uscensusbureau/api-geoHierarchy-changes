@@ -2,7 +2,7 @@
 
 ## Impetus
 
-Prior to the current transformational effort of our metadata, geographic concepts were generalized in a manner that suited their end use, namely: "American Factfinder". However, now that the Bureau's API program is expanding in reach (along with the sunsetting of the American Findfinder), it has become necessary to label geographic concepts more precisely in order to ensure as little confusion regarding what these geographies are actually referring to. Primary candidates in need of greater specificity are any geographic "Summary Level" which may be represented as either whole or "part" of its standard boundary definition (its entirety).
+Prior to the current transformational effort of our metadata, geographic concepts were generalized in a manner that suited their end use, namely: "American Factfinder". However, now that the Bureau's API program is expanding in reach, it has become necessary to label geographic concepts more precisely in order to ensure as little confusion regarding what these geographies are actually referring to. Primary candidates in need of greater specificity are any geographic "Summary Level" which may be represented as either whole or "part" of its standard boundary definition (its entirety).
 
 For geographies which may refer to either a whole or a part, these summary levels - along with the manner by which you currently access them hierarchically - will be changing. 
 
