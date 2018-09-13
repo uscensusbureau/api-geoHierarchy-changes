@@ -8,9 +8,11 @@ For geographies which may refer to either a whole or a part, these summary level
 
 ## Contact Us
 
-If you have any questions/concerns about this process or the meanings of the concepts that follow, please send an email to:
+If you have any questions/concerns about this process or the meanings of the concepts that follow, please get in touch with us via one of our outreach channels:
 
-cnmp.developers.list@census.gov
+- Join us on [Slack](https://join.slack.com/t/uscensusbureau/shared_invite/enQtMjQ3NzUyNTM3NDU3LTZmNGI1MmQzY2Y2ZTU1ODJhNDQwMmY2YmZiNmFkNzg4YmJkYmQzZjQyNDhkNDYxN2JhYjkxZDEwMGI2OGU5NzQ)
+- Join us on [gitter.im](https://gitter.im/uscensusbureau/general)
+- Send an email to: cnmp.developers.list@census.gov
 
 # Change Matrix 
 
