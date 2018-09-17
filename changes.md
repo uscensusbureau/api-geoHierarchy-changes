@@ -70,7 +70,7 @@ Summary Levels| Old Access Hierarchy and/or Name                                
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
 871           | zip code tabulation area                                                          | zip code tabulation area (or part)
 
-## Pricipal City Access
+## Principal City Access
 
 Summary Levels| Old Access Hierarchy and/or Name                                                  | New Access Hierarchy and/or Name
 ------------- | --------------------------------------------------------------------------------- | -----------------------------
